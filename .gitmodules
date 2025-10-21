@@ -1,3 +1,6 @@
 [submodule "CN_api_bk"]
 	path = CN_api_bk
 	url = https://github.com/ivanaOr/CN_api_bk.git
+[submodule "CN_React"]
+	path = CN_React
+	url = https://github.com/ivanaOr/CN_React.git
